@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/css/main.f8d43491.css",
-    "main.js": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/js/main.22e0dde1.js",
+    "main.js": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/js/main.33e88e8d.js",
     "static/media/reviews10.PNG": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/media/reviews10.8040e1905202ce6a66b2.PNG",
     "static/media/proposal2.jpg": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/media/proposal2.3ae44ef92f81115667d1.jpg",
     "static/media/reviews9.png": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/media/reviews9.fe6fb71305813a443db0.png",
@@ -84,10 +84,10 @@
     "static/media/logo1.jpg": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/media/logo1.051c716fd5532611781a.jpg",
     "index.html": "/Oleksandrov1995/cotonblouseplus.pp.ua/index.html",
     "main.f8d43491.css.map": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/css/main.f8d43491.css.map",
-    "main.22e0dde1.js.map": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/js/main.22e0dde1.js.map"
+    "main.33e88e8d.js.map": "/Oleksandrov1995/cotonblouseplus.pp.ua/static/js/main.33e88e8d.js.map"
   },
   "entrypoints": [
     "static/css/main.f8d43491.css",
-    "static/js/main.22e0dde1.js"
+    "static/js/main.33e88e8d.js"
   ]
 }
